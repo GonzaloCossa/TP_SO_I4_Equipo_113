@@ -9,3 +9,15 @@ C- ¿Qué color de fondo tiene su página en el MASTER?
 RPTA:COLOR AZUL.
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 RPTA:EL DE ALFA.
+E- ¿Algún integrante tuvo problemas al hacer el push?
+RPTA:SI, GAMMA.
+F- ¿Qué problemas surgieron?
+RPTA:Surgio un Merge conflict del index.html.
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+RPTA:Al haber conflicto en el index.html lo que se hizo fue modificar el archivo manualmente para que no siga generando el conflicto.
+H- ¿Qué sucede si cada uno utiliza el push -f?
+RPTA: Pushea el commit de manera forzada, sin tener en cuenta si existe algun conflicto.
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+RPTA:Primero deberia pararme en la rama DESARROLLO, y luego hacer el merge con la rama TESTING.
