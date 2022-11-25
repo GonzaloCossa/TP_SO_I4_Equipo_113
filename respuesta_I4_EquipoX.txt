@@ -1,0 +1,11 @@
+BENAVENTE JOSE
+DELGADO AUGUSTO
+COSSA GONZALO
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+RPTA:COLOR AZUL.
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+PRTA:COLOR AMARILLO.
+C- ¿Qué color de fondo tiene su página en el MASTER?
+RPTA:COLOR AZUL.
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+RPTA:EL DE ALFA.
